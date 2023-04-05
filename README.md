@@ -12,7 +12,7 @@ Problem Statement: Automating the Location Maps API using Rest Assured and JAVA 
 
 ## Features
 
-- **Maven** structured Frameowrk with cucumber and Rest Assured dependencies
+- **Maven** structured Framework with cucumber and Rest Assured dependencies
 - Implemented **Page Object Model** with Cucumber Framework setup
 - Implemented **Feature files** with Test Case you want to automate
 - Implemented Smart **Step Defifintion** files with supported code
