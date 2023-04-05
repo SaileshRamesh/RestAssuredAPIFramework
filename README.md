@@ -57,7 +57,7 @@ test -Dcucumber.options="--tags @VerifyAddPlaceAPI"
 test -Dcucumber.options="--tags @VerifyDeletePlaceAPI"
 test -Dcucumber.options="--tags @Regression"
 ```
-## Extent Reports
+## Reports
 
 ![This is an image](https://user-images.githubusercontent.com/46919369/229980032-113aae51-292e-4191-b12c-746ad0bb7db3.PNG)
 
